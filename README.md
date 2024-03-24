@@ -24,5 +24,9 @@
 
 基于阿里通义灵码辅助编写
 
+安装
+git clone https://github.com/jiesenliang/tree-database-management-system.git
+
+
 ![屏幕截图 2024-03-24 195355](https://github.com/jiesonliang/-/assets/135519141/df20e5d2-12b3-4736-ba40-f4f9972c9c4e)
 ![屏幕截图 2024-03-24 195435](https://github.com/jiesonliang/-/assets/135519141/60aebf60-1c3d-4877-8c49-0bab6bfe1269)
