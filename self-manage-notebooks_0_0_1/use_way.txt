@@ -1,0 +1,9 @@
+ct <值> <描述>：创建节点。例如，ct NodeA "Description A"
+in <值> <父节点值> <描述>：在指定的父节点下插入子节点。例如，in NodeB NodeA "Description B"
+fd <值>：查找指定值的节点。例如，fd NodeA
+sd <值> <新描述>：更改指定节点的描述。例如，sd NodeA "New Description A"
+dl <值>：删除指定值的节点。例如，dl NodeB
+lk <值>：锁定指定值的节点，防止其被修改或删除。例如，lock NodeA
+uk <值>：解锁指定值的节点。例如，unlock NodeA
+shw：显示整个树的结构。
+shlk：显示所有已锁定的节点
